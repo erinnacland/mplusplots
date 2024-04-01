@@ -2,9 +2,15 @@ remote_theme: sighingnow/jekyll-gitbook
 title: Customized R Interaction Plots using Mplus Output
 description: R vignettes
 syntax_highlighter_style: colorful
-#toc:
-#    disabled: false
+
 #theme: just-the-docs
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#aux_links:
+ # Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+  
+toc:
+    enabled: true
+    h_min: 1
+    h_max: 3
+
